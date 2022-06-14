@@ -82,7 +82,6 @@ const Navbar = () => {
           </>
         ) : (
           <>
-            {" "}
             <li>
               <NavLink to="/login">Entrar</NavLink>
             </li>
